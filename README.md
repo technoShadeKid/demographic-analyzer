@@ -41,7 +41,7 @@ Este projeto explora o conjunto de dados "Adult Census Income" para obter insigh
 ## Como Executar
 - Clone este repositório.
 - Certifique-se de ter as bibliotecas necessárias instaladas (execute pip install pandas).
-- Abra o notebook analise_census_income.ipynb no Jupyter Notebook ou em um ambiente similar.
+- Abra o notebook analyzer.ipynb no Jupyter Notebook ou em um ambiente similar.
 -Execute as células do notebook para reproduzir a análise e visualizar os resultados.
 
 ### Observações
